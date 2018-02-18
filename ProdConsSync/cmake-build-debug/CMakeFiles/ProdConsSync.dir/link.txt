@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ProdConsSync.dir/main.c.o CMakeFiles/ProdConsSync.dir/quest_arr_handler.c.o CMakeFiles/ProdConsSync.dir/producer.c.o CMakeFiles/ProdConsSync.dir/consumer.c.o CMakeFiles/ProdConsSync.dir/proc_handler.c.o CMakeFiles/ProdConsSync.dir/py_producer.c.o  -o ProdConsSync -lm -lrt -lpthread 
